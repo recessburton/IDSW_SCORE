@@ -1,0 +1,12 @@
+Default 请继续保持安全文明驾驶;
+WDDriveLength 请勿长距离行驶,注意休息;
+WDDriveTime 请勿疲劳驾驶,注意休息;
+WDDriveRainLength 请尽量避免雨天出行;
+DriveAvgSpeed 请降低车速,安全行驶,降低油耗;
+WDDriveNightTimes 请尽量避免夜间出行;
+WDDriveNightLength 请尽量减少夜间行驶距离;
+WDSpeedUp 请尽量避免急加速以降低油耗;
+WDSpeedDown 请保持车距,尽量避免急刹车;
+WDALDW 请勿频繁变道,安全行车;
+WDULDW 请勿频繁变道夹塞,安全行车;
+WDFCW 请保持车距,集中注意力,切勿疲劳驾驶;
